@@ -1,4 +1,4 @@
-# Pneumonia-Detector
+# Pneumonia-Image-Detector
 
 This is an image classifier for Chest X-Rays. Used the CNN model VGG16 to identify whether the given X-ray detects pneumonia.  
 
